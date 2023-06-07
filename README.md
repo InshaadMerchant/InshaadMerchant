@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi, This is Inshaad Merchant
+       Junior at The University of Texas at Arlington
 
 <!--
 **InshaadMerchant/InshaadMerchant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

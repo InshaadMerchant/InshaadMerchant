@@ -1,5 +1,6 @@
 ### 
 •	👋 Hi, I’m Inshaad Merchant
+
 •	Junior at The University of Texas at Arlington
 
 <!--
